@@ -18,7 +18,7 @@
 [![codewars](https://www.codewars.com/users/rsschool_6b0720c970f21c07/badges/large)](https://www.codewars.com/users/rsschool_6b0720c970f21c07)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humagets)](https://github.com/humagets/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humagets)](https://github.com/humagets/github-readme-stats) ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
