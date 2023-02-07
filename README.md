@@ -14,4 +14,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humagets)](https://github.com/Humagets/github-readme-stats)
