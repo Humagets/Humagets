@@ -16,4 +16,9 @@
 </div>
 
 [![codewars](https://www.codewars.com/users/rsschool_6b0720c970f21c07/badges/large)](https://www.codewars.com/users/rsschool_6b0720c970f21c07)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humagets)](https://github.com/humagets/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=humagets)
