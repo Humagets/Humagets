@@ -21,4 +21,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humagets)](https://github.com/humagets/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=humagets)
+![Jokes Card](https://readme-jokes.vercel.app/api)
