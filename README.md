@@ -15,4 +15,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![codewars](https://www.codewars.com/users/rsschool_6b0720c970f21c07/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/rsschool_6b0720c970f21c07/badges/large)](https://www.codewars.com/users/rsschool_6b0720c970f21c07)
